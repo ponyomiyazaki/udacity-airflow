@@ -13,7 +13,7 @@ operators for all 4 required
 helper containing sql
 
 ## References
-Classroom material
-Knowledge section
-chatGPT
-gitlab repo - https://gitlab.com/udacity_de_aws_nano_degree/project3-data-pipelines-with-airflow/-/tree/main?ref_type=heads
+* Classroom material
+* Knowledge section
+* chatGPT
+* gitlab repo - https://gitlab.com/udacity_de_aws_nano_degree/project3-data-pipelines-with-airflow/-/tree/main?ref_type=heads
